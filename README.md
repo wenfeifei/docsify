@@ -27,6 +27,7 @@
 
 ## Links
 
+- [`develop` branch preview](https://docsifyjs.netlify.com/)
 - [Documentation](https://docsify.js.org)
 - [CLI](https://github.com/docsifyjs/docsify-cli)
 - CDN: [UNPKG](https://unpkg.com/docsify/) | [jsDelivr](https://cdn.jsdelivr.net/npm/docsify/) | [cdnjs](https://cdnjs.com/libraries/docsify)
@@ -40,7 +41,7 @@
 - Smart full-text search plugin
 - Multiple themes
 - Useful plugin API
-- Compatible with IE10+
+- Compatible with IE11
 - Support SSR ([example](https://github.com/docsifyjs/docsify-ssr-demo))
 - Support embedded files
 
@@ -54,7 +55,7 @@ Look at [this tutorial](https://docsify.js.org/#/quickstart)
 
 These projects are using docsify to generate their sites. Pull requests welcome :blush:
 
-Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify)
+Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
 
 ## Similar projects
 
